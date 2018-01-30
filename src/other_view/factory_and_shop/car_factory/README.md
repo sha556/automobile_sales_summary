@@ -98,12 +98,12 @@
 
 #### 售前店访流程
 
-![售前店访流程图](../../../assets/img/pre_sale_procedure.png)
+![售前店访流程图](../../../assets/img/pre_sale_procedure.jpg)
 
 #### 店头点检流程
 
-![店头点检流程图](../../../assets/img/shop_check_procedure.png)
+![店头点检流程图](../../../assets/img/shop_check_procedure.jpg)
 
 #### 小区例会流程
 
-![小区例会流程图](../../../assets/img/area_meeting_procedure.png)
+![小区例会流程图](../../../assets/img/area_meeting_procedure.jpg)

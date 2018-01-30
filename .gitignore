@@ -27,3 +27,5 @@ node_modules
 output/
 debug/
 *.zip
+
+.vscode/
