@@ -1,0 +1,19 @@
+{
+  "title": "汽车销售领域知识总结",
+  "description": "总结汽车销售领域内的相关知识",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "automobile_sales_summary"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/automobile_sales_summary/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/automobile_sales_summary/pdf/automobile_sales_summary.pdf"
+    }
+  }
+}
